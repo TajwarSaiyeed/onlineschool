@@ -62,7 +62,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    min-height: 50vh;
+    min-height: 40vh;
     margin: 70px;
 }
 
@@ -99,4 +99,37 @@ body {
     width: 110px;
     padding: 20px;
     margin-bottom: -17px;
+}
+
+.card_section {
+    min-height: 120vh;
+}
+
+.card {
+    border-radius: 20px;
+    margin: 5px;
+    padding: 10px;
+    border: none;
+    box-shadow: 3px 3px 20px 10px #9f9f9f73;
+}
+
+.card-txt {
+    font-size: 2.5rem;
+    font-weight: 900;
+}
+
+.card .top-img {
+    padding: 10px;
+}
+
+.icon {
+    width: 26px;
+    border: none;
+    padding: 0px;
+    margin-right: 5px;
+}
+
+.footer-txt {
+    font-size: 14px;
+    font-weight: 500;
 }
