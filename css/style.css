@@ -133,3 +133,30 @@ body {
     font-size: 14px;
     font-weight: 500;
 }
+
+.test {
+    padding-left: 160px;
+    padding-right: 160px;
+    min-height: 70vh;
+}
+
+.test p.custom {
+    letter-spacing: 1px;
+    line-height: 20px;
+    color: #2c2c2c;
+    text-align: justify;
+}
+
+.ft_gray {
+    background-color: #565656;
+    color: #fff;
+}
+
+.row ul li {
+    color: #fff;
+}
+
+.row ul li a {
+    text-decoration: none;
+    color: #fff;
+}
